@@ -49,6 +49,8 @@ Examines:
 - HIV diagnosis indicators.
 - Testing and diagnosis trends over time.
 
+![Testing & Diagnosis](Images/testing-diagnosis.png)
+
 ---
 
 ## 🧹 Data Preparation
