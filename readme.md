@@ -96,26 +96,6 @@ The report includes:
 
 ---
 
-## 📸 Dashboard Preview
-
-### Executive Overview
-
-![Executive Overview](images/executive-overview.png)
-
-### Prevalence & Incidence
-
-![Prevalence & Incidence](images/prevalence-incidence.png)
-
-### Treatment & PMTCT
-
-![Treatment & PMTCT](images/treatment-pmtct.png)
-
-### Testing & Diagnosis
-
-![Testing & Diagnosis](images/testing-diagnosis.png)
-
----
-
 ## 💡 Project Philosophy
 
 Many dashboards require the analyst to explain every chart before stakeholders can understand the findings.
@@ -125,11 +105,3 @@ This project was built with a different philosophy:
 > **Reduce the effort required to understand the data.**
 
 Each page was intentionally designed to communicate its key message through carefully selected visuals and embedded insights, allowing users to interpret the dashboard with minimal explanation.
-
----
-
-## 📬 Feedback
-
-Feedback, suggestions, and discussions are always welcome.
-
-If you have ideas on improving the dashboard, visualization choices, or insight delivery, feel free to open an issue or connect with me.
